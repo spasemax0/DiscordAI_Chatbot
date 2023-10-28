@@ -1,5 +1,5 @@
 #Author: spasemax0
-#main section of discord bot, declares intents and creates events, customize as needed
+# Main section of discord bot, declares intents and creates events, customize as needed
 import discord
 import os
 from generate_text import generate_text
